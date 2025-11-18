@@ -1,6 +1,6 @@
 Do-Task — Full-Stack Task Management Application
 
-A modern productivity app built with Spring Boot, React, JWT, WebSockets, and MongoDB.
+A modern productivity app built with Spring Boot, JWT, WebSockets, and MongoDB.
 
 🚀 Overview
 
@@ -13,8 +13,7 @@ It supports:
 ✔ Real-time Task Updates using WebSockets
 ✔ Notifications System
 ✔ Clean Folder Structure & Best Practices (SOLID, Layered Architecture)
-✔ Docker Support
-✔ Production-ready Build for Backend & Frontend
+✔ Production-ready Build for Backend
 
 🧩 Tech Stack
 Backend
